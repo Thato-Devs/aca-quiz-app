@@ -38,10 +38,10 @@ npm install
 npm start
 
 
- Deployment
+## Deployment
 This app is automatically deployed using Vercel. Each push to the main branch triggers a redeploy.
 
-🧠 Question Topics
+## Question Topics
 Each question in the quiz covers a real concept used in the app such as:
 
 Git & GitHub
@@ -60,6 +60,6 @@ LocalStorage
 
 Deployment
 
-🙌 Author
+## Author
 Thato Blessing Tlhalefang
 Built for the Africa Code Academy - 2025
