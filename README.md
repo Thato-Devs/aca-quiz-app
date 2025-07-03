@@ -36,3 +36,30 @@ git clone https://github.com/Thato-Devs/aca-erp2022-2-Quiz.git
 cd aca-erp2022-2-Quiz
 npm install
 npm start
+
+
+ Deployment
+This app is automatically deployed using Vercel. Each push to the main branch triggers a redeploy.
+
+🧠 Question Topics
+Each question in the quiz covers a real concept used in the app such as:
+
+Git & GitHub
+
+React components
+
+useState/useEffect
+
+TypeScript interfaces
+
+JSON imports
+
+CSS styling
+
+LocalStorage
+
+Deployment
+
+🙌 Author
+Thato Blessing Tlhalefang
+Built for the Africa Code Academy - 2025
